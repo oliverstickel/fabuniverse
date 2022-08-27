@@ -1,8 +1,9 @@
 site_name: 'Fab:UNIverse'
 
-#todo
 #site_description: 'todo'
-#remote_branch: if we use GH pages
+
+repo_url: https://github.com/oliverstickel/fabuniverse/
+repo_name: Quellcode auf GitHub
 
 theme: 
   name: material
@@ -10,8 +11,8 @@ theme:
   icon:
     logo: 'fontawesome/solid/users-gear'
   palette:
-    primary: 'amber'
-    accent: 'amber'
+    primary: 'black'
+    accent: 'red'
   font:
     text: 'Rubik'    
   features:
@@ -66,4 +67,7 @@ plugins:
   - glightbox  
 
 copyright: <a href="https://www.ruhr-uni-bochum.de/de/impressum">Impressum</a>
+
+extra_css:
+  - 'stylesheets/extra.css'
 
