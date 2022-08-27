@@ -4,6 +4,7 @@ site_name: 'Fab:UNIverse'
 
 repo_url: https://github.com/oliverstickel/fabuniverse/
 repo_name: Quellcode auf GitHub
+edit_uri: edit/main/docs/
 
 theme: 
   name: material
