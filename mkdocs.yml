@@ -1,0 +1,68 @@
+site_name: 'Fab:UNIverse'
+
+#todo
+#site_description: 'todo'
+#remote_branch: if we use GH pages
+
+theme: 
+  name: material
+  language: de
+  icon:
+    logo: 'fontawesome/solid/users-gear'
+  palette:
+    primary: 'amber'
+    accent: 'amber'
+  font:
+    text: 'Rubik'    
+  features:
+    - toc.follow
+    - navigation.top
+    - navigation.instant    
+    - toc.integrate  
+    - search.suggest 
+    - search.highlight
+    - navigation.tracking      
+    - announce.dismiss
+
+nav:
+    - Was ist Fab:UNIverse?: 'index.md'
+    - 2023 - Bochum: '2023.md'
+    - 2022 - Halle: '2022.md'
+    - 2021 - Lückenwalde/online: '2021.md'
+    - 2020 - Stuttgart/online: '2020.md'
+    - 2019 - Berlin: '2019.md'
+    - 2018 - Siegen: '2018.md'
+    - 2017 - Wildau: '2017.md'
+    - Zu Fab:UNIverse beitragen: 'beitragen.md'
+    - Weitere Netzwerke und Formate: 'friends.md'
+    - Kontakt: 'kontakt.md'    
+
+markdown_extensions:
+  - meta
+  - toc:
+  #    permalink: true
+      toc_depth: 3
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg  
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences   
+  - pymdownx.critic    
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde  
+  - footnotes
+  - attr_list
+
+plugins:
+  - search
+  - glightbox  
+
+
