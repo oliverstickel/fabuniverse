@@ -8,7 +8,9 @@ Es ist gut und wichtig, sich auf Formaten wie Fab:UNIverse zu treffen. Noch wich
 
 ## Aktiv teilnehmen
 
-Sei gern als Teilnehmer\*In bei der nächsten Ausgabe von Fab:UNIverse dabei! Wie man sich anmeldet, steht im Beitrag zum jeweiligen Jahr. 
+Sei gern als Teilnehmer\*In bei der nächsten Ausgabe von Fab:UNIverse dabei! Wie man sich anmeldet, steht immer hier auf der Website im Beitrag zum jeweiligen Jahr. 
+
+Du kannst auch [online in unserem Forum Teil der Community sein](https://discourse.fab-universe.de/login).
 
 ## Gastgeber sein
 
