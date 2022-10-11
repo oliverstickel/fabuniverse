@@ -5,7 +5,7 @@ Fab:UNIverse hat keinen zentralen "Kopf". Bitte wende Dich an die Organisator\*I
 
 ## Discourse
 
-Die Fab:UNIverse-Community tauscht sich [per Discourse hier aus](https://discourse.fab-universe.de/).  
+Die Fab:UNIverse-Community tauscht sich [per Discourse-Forum hier aus](https://discourse.fab-universe.de/).  
 Neue Mitglieder sind willkommen, müssen aber einen Bezug zu Fab:UNIverse haben und werden manuell bestätigt.
 
 
