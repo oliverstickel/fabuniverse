@@ -67,20 +67,7 @@ markdown_extensions:
 
 plugins:
 #  - search
-  - glightbox  
-  - page-to-pdf :
-      scale: 0.8
-      displayHeaderFooter: false
-      headerTemplate: <span style="margin-left:20px; font-size:8px;"><span class="title"></span></span>
-      footerTemplate: <span style="margin-left:20px; font-size:8px;">Letzte Aktualisierung <span class="date"></span></span>
-      margin:
-        top: "0px"
-        right: "0px"
-        left: "0px"
-        bottom: "0px"
-      disableOnServe: true
-      pageLoadOptions:
-        timeout: 900000  
+  - glightbox
 
 copyright: <a href="https://www.ruhr-uni-bochum.de/de/impressum">Impressum</a>
 
