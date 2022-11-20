@@ -30,11 +30,12 @@ nav:
     - Was ist Fab:UNIverse?: 'index.md'
     - 2023 - Bochum: '2023.md'
     - 2022 - Halle: '2022.md'
-    - 2021 - Luckenwalde/online: '2021.md'
-    - 2020 - Stuttgart/online: '2020.md'
+    - 2021 - Luckenwalde/hybrid: '2021.md'
+    - 2020 - Stuttgart/hybrid: '2020.md'
     - 2019 - Berlin: '2019.md'
     - 2018 - Siegen: '2018.md'
     - 2017 - Wildau: '2017.md'
+    - Regionalgruppen: 'regional.md'
     - Zu Fab:UNIverse beitragen: 'beitragen.md'
     - Links: 'links.md'
     - Kontakt: 'kontakt.md'    
@@ -67,6 +68,19 @@ markdown_extensions:
 plugins:
 #  - search
   - glightbox  
+  - page-to-pdf :
+      scale: 0.8
+      displayHeaderFooter: false
+      headerTemplate: <span style="margin-left:20px; font-size:8px;"><span class="title"></span></span>
+      footerTemplate: <span style="margin-left:20px; font-size:8px;">Letzte Aktualisierung <span class="date"></span></span>
+      margin:
+        top: "0px"
+        right: "0px"
+        left: "0px"
+        bottom: "0px"
+      disableOnServe: true
+      pageLoadOptions:
+        timeout: 900000  
 
 copyright: <a href="https://www.ruhr-uni-bochum.de/de/impressum">Impressum</a>
 

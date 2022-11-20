@@ -22,8 +22,12 @@ Der Austragungsort fürs nächste Jahr wird meist auf der jeweils diesjährigen 
 
 - Diese Website[ wird auf Github entwickelt und auch von dort gehostet](https://github.com/oliverstickel/fabuniverse/)
 - Beiträge zur Website sind als Pull Requests jederzeit willkommen
-- Die Domain wird freundlicherweise von ==Name erwähnen?== bereitgestellt
+- Die Domain wird freundlicherweise aus der Community bereitgestellt - danke!
+
+## An der Verstetigung des Netzwerks arbeiten
+
+Auf verschiedenen unserer Tagungen und anderen Treffen wird immer wieder angesprochen, dass dem Wachstum unserer Community bestimmte Strukturen gut tun würden - gemeint sind Dinge wie z.B. permanente Ansprechpersonen, Kapazität zur Dokumentation und Veröffentlichung von Wissen aus dem Netzwerk, ein Budget für Tagungen und dergleichen. Mitglieder der Fab:UNIverse-Community sind aufgerufen, z.B. über entsprechende Projektanträge an diesen Themen zu arbeiten. 
 
 ## Spenden und Sponsoring
 
-Fab:UNIverse hat keine zentrale Rechtsform und nimmt dementsprechend selbst auch keine Partnerschaften auf. Es steht den Organisator\*Innen des jeweiligen Jahres auf Wunsch frei, in angemessenem Rahmen Sponsoring und Spenden in die Veranstaltung einzubeziehen.
+Fab:UNIverse hat keine zentrale Rechtsform und nimmt dementsprechend selbst auch keine Partnerschaften auf. Es steht den Organisator\*Innen des jeweiligen Jahres auf Wunsch frei, in angemessenem Rahmen Sponsoring und Spenden in die Veranstaltung einzubeziehen. Auch dies kann ein Zweig des Themas "Verstetigung des Netzwerks" sein.
